@@ -4,7 +4,10 @@
 
 <br clear="both">
 
-<h4 align="left">I'm a **college student** with a strong foundation in **C, C++, Python, and C#**. I love building everything from low-level OS components like threading and memory allocators to high-level applications like games and tools.<br><br>🎮 On the creative side, I primarily use **Unity** with C# to develop games, and I occasionally dive into **Godot** as well.<br><br>🛠️ I care deeply about **clean architecture**, **performance**, and writing code that’s both **elegant and maintainable**.<br><br>📚 My interests span **computer systems**, **game development**, **algorithms**, and **applied machine learning**.</h4>
+<h4 align="left">I’m a college student with a strong foundation in C, C++, Python, and C#. I love building everything from low-level OS components like threading and memory allocators to high-level applications like games and tools.
+🕹️ On the creative side, I primarily use Unity with C# to develop games, and I occasionally dive into Godot as well.
+🛠️ I care deeply about clean architecture, performance, and writing code that’s both elegant and maintainable.
+📚 My interests span computer systems, game development, algorithms, and applied machine learning.</h4>
 
 ###
 
