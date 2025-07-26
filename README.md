@@ -1,8 +1,7 @@
-<p align="center" style="font-size: 36px; font-weight: bold; margin: 0;">Daniel Heřt</p>
-
-###
-
-<p align="center" style="font-size: 28px; font-weight: bold; margin: 0;">Nerdiel</p>
+<h1 align="center" style="margin-bottom: 0;">
+  Daniel Heřt<br>
+  <span style="font-size: 0.7em; font-weight: normal;">Nerdiel</span>
+</h1>
 
 ###
 
@@ -64,7 +63,7 @@
   <tr>
     <td>
       <a href="https://open.spotify.com/user/8uj4gsyk1hju0j5cb9ef5tiu5">
-        <img src="https://spotify-recently-played-readme.vercel.app/api?user=8uj4gsyk1hju0j5cb9ef5tiu5&count=6&unique=false" width="350" />
+        <img src="https://spotify-recently-played-readme.vercel.app/api?user=8uj4gsyk1hju0j5cb9ef5tiu5&count=7&unique=false" width="350" />
       </a>
     </td>
     <td>
