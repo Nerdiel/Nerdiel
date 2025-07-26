@@ -1,10 +1,32 @@
-<h1 align="center">Nerdiel</h1>
+<h1 align="center">Daniel Heřt</h1>
+
+###
+
+<h2 align="center">Nerdiel</h2>
 
 ###
 
 <br clear="both">
 
 <h3 align="left">I’m a college student with a strong foundation in C, C++, Python, and C#. I love building everything from low-level OS components like threading and memory allocators to high-level applications like games and tools.<br><br>🕹️ On the creative side, I primarily use Unity with C# to develop games, and I occasionally dive into Godot as well.<br><br>🛠️ I care deeply about clean architecture, performance, and writing code that’s both elegant and maintainable.<br><br>📚 My interests span computer systems, game development, algorithms, and applied machine learning.</h3>
+
+###
+
+<br clear="both">
+
+<div align="right">
+  <a href="https://open.spotify.com/user/8uj4gsyk1hju0j5cb9ef5tiu5">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=8uj4gsyk1hju0j5cb9ef5tiu5&count=6&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
+<div align="left">
+  <img src="https://streak-stats.demolab.com?user=Nerdiel&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=5&date_format=j/n%5B/Y%5D" height="150" alt="streak graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Nerdiel&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nerdiel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 ###
 
@@ -56,20 +78,10 @@
 
 ###
 
-<br clear="both">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nerdiel/Nerdiel/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nerdiel/Nerdiel/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Nerdiel/Nerdiel/output/pacman-contribution-graph.svg">
+</picture>
 
-<table>
-  <tr>
-    <td>
-      <a href="https://open.spotify.com/user/8uj4gsyk1hju0j5cb9ef5tiu5">
-        <img src="https://spotify-recently-played-readme.vercel.app/api?user=8uj4gsyk1hju0j5cb9ef5tiu5&count=6&unique=false" width="350" />
-      </a>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Nerdiel&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" width="350" />
-    </td>
-    <td>
-      <img src="https://streak-stats.demolab.com?user=Nerdiel&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=5&date_format=j/n%5B/Y%5D" width="350" />
-    </td>
-  </tr>
-</table>
+###
